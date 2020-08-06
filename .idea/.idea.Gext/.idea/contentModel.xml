@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\ancher\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="E:\f1\ResharperCache\ReSharperHost193._Gext.413101476.RD.00" t="ExcludeRecursive" />
-    <e p="E:\M1\GextCore\Gext" t="IncludeFlat">
+    <e p="E:\f1\ResharperCache\ReSharperHost193._Gext.-2018388993.RD.00" t="ExcludeRecursive" />
+    <e p="E:\M1\Gext" t="IncludeFlat">
       <e p="Gext" t="IncludeRecursive">
         <e p="Asset.cs" t="Include" />
         <e p="AssetBundle.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Enums.cs" t="Include" />
         <e p="Gext.csproj" t="IncludeRecursive" />
+        <e p="LzmaHelper.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp2.2" t="Include">

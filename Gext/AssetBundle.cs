@@ -352,6 +352,7 @@ namespace Gext
 				case CompressionType.Lz4hc:
 					return LZ4Codec.Decode(data, 0, compressedSize, compressedSize);
 				case CompressionType.Lzma:
+					return LzmaHelper.ExtractLzma(data);
 				case CompressionType.Zlib:
 				case CompressionType.Lzfse:
 				case CompressionType.Lzham:

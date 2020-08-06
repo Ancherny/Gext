@@ -11,6 +11,6 @@ class Program
 
 		var assetFile = "dbf.unity3d";
 
-		var assetBundle = new AssetBundle(hearthstoneInstallDir+assetFile);
+		var assetBundle = new AssetBundle("E:/M1/amd/Battlefields/battle_background_01_high_windows.unity3d");
 	}
 }
